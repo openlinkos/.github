@@ -1,28 +1,50 @@
-## Hi there 👋
+## 👋 Welcome to LinkOS
 
-Welcome to the **LinKOS** Projects! LinKOS is a suite of open-source projects centered around cloud-native technologies. Our primary objective is to offer cloud-native hosting services.
+**LinkOS — Open infrastructure for the AI era.**
 
-## Development Status
-
-🛠 Currently, LinKOS is under active development internally. We're excited to announce that once preliminary development reaches completion, the projects under LinKOS will be made available to the broader open-source community!
-
-## Public Services
-
-LinKOS proudly offers a series of community-driven services to assist with cloud-native workflows, especially tailored for regions with compromised network quality. Hosted under the `linkos.org` domain, we provide the following image acceleration services:
-
-- [Docker Registry Mirror](https://docker.linkos.org) (`docker.linkos.org`) - Mirroring [Docker Hub](https://docker.io)
-- [Google Container Registry Mirror](https://gcr.linkos.org) (`gcr.linkos.org`) - Mirroring [Google Container Registry](https://gcr.io)
-- [GitHub Container Registry Mirror](https://ghcr.linkos.org) (`ghcr.linkos.org`) - Mirroring [GitHub Container Registry](https://ghcr.io)
-- [Kubernetes Container Registry Mirror](https://k8s.linkos.org) (`k8s.linkos.org`) - Mirroring [Kubernetes Container Registry](https://ghcr.io)
-- [Quay Container Registry Mirror](https://quay.linkos.org) (`quay.linkos.org`) - Mirroring [Quay Container Registry](https://quay.io)
-
-## Public Service Availability
-
-To ensure we deliver the best to our community, we continuously monitor the availability of our public services. You can check the current service status at: [https://uptime.linkos.org](https://uptime.linkos.org).
+We're building two core pillars:
 
 ---
 
-🌍 Visit our [official website](https://linkos.io) for more information on LinKOS and its offerings.
+### 🤖 Open LinkOS Agent SDK
 
-Thank you for being a part of the LinKOS journey!
+A **model-agnostic TypeScript Agent framework** designed for production AI systems.
 
+**What makes it different:**
+- ✅ **Native Claude Skill/Plugin support** — first-class implementation of Anthropic's skill specification
+- ✅ **Advanced Sub-agent system** — parallel execution, recursive delegation, progress streaming
+- ✅ **Agent Team orchestration** — supervisor, swarm, pipeline, debate modes with inter-agent communication
+- ✅ **Multi-channel adapters** — Telegram, Feishu, Discord, Slack, and more
+- ✅ **Model-agnostic** — Anthropic Claude, OpenAI GPT, Google Gemini, local models
+
+**Status:** Active development | MIT License  
+**Repository:** [OpenLinkOS/agent](https://github.com/OpenLinkOS/agent) *(coming soon)*
+
+---
+
+### 🪞 LinkOS Mirror Services
+
+**Public container registry mirrors** serving the cloud-native community since 2023.  
+Especially valuable for regions with compromised network connectivity.
+
+**Available mirrors** (all hosted at `*.linkos.org`):
+- 🐳 [docker.linkos.org](https://docker.linkos.org) — Docker Hub
+- 📦 [gcr.linkos.org](https://gcr.linkos.org) — Google Container Registry
+- 🐙 [ghcr.linkos.org](https://ghcr.linkos.org) — GitHub Container Registry
+- ☸️ [k8s.linkos.org](https://k8s.linkos.org) — Kubernetes Registry
+- 🔷 [quay.linkos.org](https://quay.linkos.org) — Quay.io
+
+**Service status:** [uptime.linkos.org](https://uptime.linkos.org)  
+**Documentation:** [OpenLinkOS/registry-mirrors](https://github.com/OpenLinkOS/registry-mirrors) ⭐150
+
+---
+
+### 📚 Learn More
+
+- 🌐 Official website: [linkos.io](https://linkos.io)
+- 💬 Join the community: [Discord](#) *(coming soon)*
+- 📖 Documentation: [docs.linkos.dev](#) *(coming soon)*
+
+---
+
+**Thank you for being part of the LinkOS journey!**
