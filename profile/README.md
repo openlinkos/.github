@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://openlinkos.com/brand/openlinkos/github/readme-dark.svg">
-  <img alt="OpenLinkOS" src="https://openlinkos.com/brand/openlinkos/github/readme-light.svg" height="48">
-</picture>
+<img alt="OpenLinkOS" src="https://openlinkos.com/brand/openlinkos/github/readme.svg" height="56">
 
 **Open infrastructure for the AI era.** Open-source building blocks for people who work with AI agents every day, and the hosted services that keep them running.
 
@@ -12,9 +9,9 @@
 
 ### LinkOS services
 
-LinkOS is the line of hosted services run by OpenLinkOS.
+LinkOS is the line of hosted services run by OpenLinkOS. Its home is [linkos.org](https://linkos.org).
 
-- **[LinkOS Mirrors](https://github.com/openlinkos/registry-mirrors)** — free mirrors of public container registries, serving the cloud-native community since 2023: [docker.linkos.org](https://docker.linkos.org) (Docker Hub), [gcr.linkos.org](https://gcr.linkos.org), [ghcr.linkos.org](https://ghcr.linkos.org), [quay.linkos.org](https://quay.linkos.org) and [k8s.linkos.org](https://k8s.linkos.org) (registry.k8s.io).
+- **[LinkOS Mirrors](https://linkos.org/mirrors)** — free mirrors of public container registries, serving the cloud-native community since 2023: [docker.linkos.org](https://docker.linkos.org) (Docker Hub), [gcr.linkos.org](https://gcr.linkos.org), [ghcr.linkos.org](https://ghcr.linkos.org), [quay.linkos.org](https://quay.linkos.org) and [k8s.linkos.org](https://k8s.linkos.org) (registry.k8s.io). Open-source configuration: [openlinkos/registry-mirrors](https://github.com/openlinkos/registry-mirrors).
 - **[LinkOS Status](https://uptime.linkos.org)** — live status of every LinkOS service.
 
 [openlinkos.com](https://openlinkos.com) · [Brand guidelines](https://openlinkos.com/brand) · [Design system](https://github.com/openlinkos/design)
@@ -30,9 +27,9 @@ LinkOS is the line of hosted services run by OpenLinkOS.
 
 ### LinkOS 服务
 
-LinkOS 是 OpenLinkOS 运营的托管服务线。
+LinkOS 是 OpenLinkOS 运营的托管服务线，主页是 [linkos.org](https://linkos.org/zh/)。
 
-- **[LinkOS Mirrors](https://github.com/openlinkos/registry-mirrors)**：免费的公共容器镜像仓库加速服务，自 2023 年起服务云原生社区：[docker.linkos.org](https://docker.linkos.org)（Docker Hub）、[gcr.linkos.org](https://gcr.linkos.org)、[ghcr.linkos.org](https://ghcr.linkos.org)、[quay.linkos.org](https://quay.linkos.org) 和 [k8s.linkos.org](https://k8s.linkos.org)（registry.k8s.io）。
+- **[LinkOS Mirrors](https://linkos.org/zh/mirrors)**：免费的公共容器镜像仓库加速服务，自 2023 年起服务云原生社区：[docker.linkos.org](https://docker.linkos.org)（Docker Hub）、[gcr.linkos.org](https://gcr.linkos.org)、[ghcr.linkos.org](https://ghcr.linkos.org)、[quay.linkos.org](https://quay.linkos.org) 和 [k8s.linkos.org](https://k8s.linkos.org)（registry.k8s.io）。配置开源在 [openlinkos/registry-mirrors](https://github.com/openlinkos/registry-mirrors)。
 - **[LinkOS Status](https://uptime.linkos.org)**：LinkOS 各项服务的实时状态。
 
 [openlinkos.com/zh](https://openlinkos.com/zh/) · [品牌规范](https://openlinkos.com/zh/brand) · [设计系统](https://github.com/openlinkos/design)
